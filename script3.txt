@@ -1,0 +1,5 @@
+cd C:\Users\hasse\Desktop\cam
+
+pip install opencv-python requests
+
+python thermostat_control.py
